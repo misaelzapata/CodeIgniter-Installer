@@ -1,0 +1,10 @@
+
+.DS_Store
+
+application/controllers/index.html
+
+application/core/index.html
+
+application/models/index.html
+
+application/views/index.html
